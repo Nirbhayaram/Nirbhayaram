@@ -1,35 +1,62 @@
 <h1 align="center">Hi 👋, I'm Nirbhayaram</h1>
-<h3 align="center">Java Developer | Data Analytics Enthusiast | ECE Student</h3>
+<h3 align="center">Java Developer | Data Analytics Enthusiast | ECE Graduate</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Developer;Power+BI+Developer;Data+Analytics+Enthusiast;Python+Learner&center=true&width=500&height=50">
+</p>
+
+---
+
+### 👨‍💻 About Me
 
 - 🎓 B.E. Electronics and Communication Engineering
-- 🌱 Currently learning Java, Power BI, SQL & Python
-- 📊 Interested in Data Analytics and Business Intelligence
-- 💻 Working on Java and Power BI Projects
-- 📫 Reach me at: nirbhayarampm@gmail.com
-### Connect with me:
+- 💻 Skilled in Java, Python, SQL
+- 📊 Passionate about Data Analytics & Power BI
+- 🚀 Building Real-World Projects
+- 🌱 Currently Learning Advanced Java & Data Analytics
 
-<a href="www.linkedin.com/in/nirbhayaram-pm-344340305">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
+---
 
-### Languages and Tools:
+### 🛠️ Skills
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode" />
 </p>
 
-### GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirbhayaram&show_icons=true&theme=tokyonight)
+### 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhayaram&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nirbhayaram&show_icons=true&theme=tokyonight" />
+</p>
 
-### GitHub Streak
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhayaram&layout=compact&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nirbhayaram&theme=tokyonight)
+---
 
-### Profile Views
+### 🔥 GitHub Streak
 
-![](https://komarev.com/ghpvc/?username=Nirbhayaram&color=blue)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Nirbhayaram&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 📊 Hospital Performance Analytics Dashboard
+- 📈 Customer Churn Analysis Dashboard
+- 🛒 Super Store Sales Dashboard
+- 🤖 Face Mask Detection using YOLO
+- 🚦 AI-Based Smart Speed Control System
+
+---
+
+### 🌐 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/nirbhayaram-pm-344340305)
+
+⭐ Thanks for visiting my profile!
