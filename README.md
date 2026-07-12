@@ -7,11 +7,10 @@
 - 🌱 Currently learning Java, Power BI, SQL & Python
 - 📊 Interested in Data Analytics and Business Intelligence
 - 💻 Working on Java and Power BI Projects
-- 📫 Reach me at: your-email@example.com
-
+- 📫 Reach me at: nirbhayarampm@gmail.com
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+<a href="www.linkedin.com/in/nirbhayaram-pm-344340305">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
