@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirbhayaram</h1>
-<h3 align="center">Java Developer | Data Analytics Enthusiast | ECE Graduate</h3>
+<h3 align="center">Java | Data Analytics Enthusiast | ECE Graduate</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Java+Developer;Power+BI+Developer;Data+Analytics+Enthusiast;Python+Learner&center=true&width=500&height=50">
@@ -50,7 +50,7 @@
 - 📊 Hospital Performance Analytics Dashboard
 - 📈 Customer Churn Analysis Dashboard
 - 🛒 Super Store Sales Dashboard
-- 🤖 Face Mask Detection using YOLO
+-    Smart Energy Management System
 - 🚦 AI-Based Smart Speed Control System
 
 ---
