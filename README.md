@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Nirbhayaram</h1>
-<h3 align="center">Java Developer | Data Analytics Enthusiast | Power BI Developer</h3>
+```md
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Java+Developer;Data+Analytics+Enthusiast;Power+BI+Developer;Python+Learner&center=true&width=500&height=50">
-</p>
+# Hi 👋, I'm Nirbhayaram
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Nirbhayaram&fontAlign=50&fontAlignY=40&color=gradient"/>
-</p>
+### Java Developer | Data Analytics Enthusiast | Power BI Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;Data+Analytics+Enthusiast;Power+BI+Developer;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
@@ -15,19 +15,17 @@
 
 🎓 B.E. Electronics and Communication Engineering
 
-💻 Passionate about Software Development & Data Analytics
+💻 Passionate about Java Development and Data Analytics
 
-📊 Skilled in Power BI, Excel, Java, Python
+📊 Experienced in creating interactive Power BI Dashboards
 
-🚀 Building Real-World Analytics Dashboards
+🌱 Currently improving Java, Python and Data Analytics skills
 
-🌱 Currently Learning Advanced Java & Data Analytics
-
-📍 Salem, Tamil Nadu, India
+🚀 Love solving real-world problems through technology
 
 ---
 
-## 🚀 Skills
+## 🚀 Tech Stack
 
 <p align="center">
 
@@ -35,13 +33,13 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Data_Analytics-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-00599C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-FF9800?style=for-the-badge"/>
 
 </p>
 
@@ -50,11 +48,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nirbhayaram&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhayaram&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nirbhayaram&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhayaram&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -62,7 +60,9 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Nirbhayaram&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=Nirbhayaram&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -70,30 +70,32 @@
 ## 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirbhayaram&theme=tokyo-night"/>
+
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-📊 Hospital Performance Analytics Dashboard
+✨ Hospital Performance Analytics Dashboard
 
-📈 Customer Churn Analysis Dashboard
+✨ Customer Churn Analysis Dashboard
 
-🛒 Super Store Sales Dashboard
+✨ Super Store Sales Dashboard
 
-🤖 Face Mask Detection using YOLO
+✨ Face Mask Detection using YOLO
 
-🚦 AI-Based Smart Speed Control System
+✨ AI-Based Smart Speed Control System
 
-☕ Java Collection Framework Programs
+✨ Java Collection Framework Programs
 
 ---
 
 ## 🏆 Certifications
 
-🏅 Java Placement Training Certificate
+🏅 Java Placement Training
 
 🏅 Data Analytics Internship
 
@@ -105,7 +107,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/nirbhayaram-pm-344340305">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -114,7 +116,18 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Nirbhayaram&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://komarev.com/ghpvc/?username=Nirbhayaram&label=Profile+Views&color=0e75b6&style=flat"/>
+
 </p>
 
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub Profile ⭐
+
+*"Code • Learn • Build • Grow"*
+
+</div>
+```
