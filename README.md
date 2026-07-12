@@ -20,7 +20,7 @@
 ### 🛠️ Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,Data Analyst,Power BI,vscode" />
 </p>
 
 ---
